@@ -1,5 +1,6 @@
 .env
 venv/
+venv_eval/
 
 data/
 __pycache__
